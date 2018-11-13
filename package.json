@@ -1,0 +1,15 @@
+{
+	"name": "react-page-component",
+	"version": "0.1.0",
+	"private": true,
+	"author": "jalenjin",
+	"dependencies": {
+		"antd": "^3.10.7",
+		"react": "^16.6.3",
+		"react-dom": "^16.6.3"
+	},
+	"scripts": {},
+	"devDependencies": {
+		"webpack": "^4.25.1"
+	}
+}
